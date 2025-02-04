@@ -23,7 +23,8 @@ public class ControladorGrafo extends MouseAdapter implements ActionListener,
     MouseListener {
     VistaGrafo frmGrafo;
     Grafo grafito;
-   
+    
+   //Nuevo comentario de subida
     
     DefaultTableModel modelo = new DefaultTableModel();
 
